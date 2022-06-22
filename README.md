@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arundasedakkoth
 - 💞️ I like to code
 - 👀 I’m looking to collaborate on Web Developement
-- 🌱 Currently learning Web Developement
+- 🌱 Currently learning React
 - 📫 @arundasedakkoth
 
 <!---
