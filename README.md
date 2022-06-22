@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arundasedakkoth
 - 💞️ I like to code
-- 👀 I’m looking to collaborate on Software Developement
+- 👀 I’m looking to collaborate on Web Developement
 - 🌱 Currently learning Web Developement
 - 📫 @arundasedakkoth
 
